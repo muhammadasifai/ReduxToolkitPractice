@@ -5,6 +5,8 @@ import { useDispatch, useSelector } from "react-redux";
 import { login } from "../../redux/features/AuthSlice";
 import MyButton from "../../components/MyButton";
 
+// dummyjson API work properly now, Testing with Axios API.
+
 const LoginScreen = () => {
 
     // navigation
